@@ -91,4 +91,9 @@ d3.json(earthquakeData).then(function(data) {
             // We set the style for each circleMarker using our styleInfo function.
             style: styleInfo
             }).addTo(map);
+<<<<<<< HEAD
 });
+=======
+});
+
+>>>>>>> aa1697295c0c556ac86e8d7b6135ae90da449319
